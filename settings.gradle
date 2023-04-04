@@ -8,4 +8,6 @@
  */
 
 rootProject.name = 'Hibernate'
-include('app')
+include('lesson3')
+include 'lesson4'
+
